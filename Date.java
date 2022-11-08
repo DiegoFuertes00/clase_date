@@ -19,6 +19,8 @@ class date(){
                 monthName="Enero";
                 break;
             case 2:
+                monthName="Febrero";
+                break;
             //todos los casos
             return monthName;
         }
